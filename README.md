@@ -49,9 +49,8 @@ Users were randomly assigned to control or treatment, enabling causal inference.
 ### Visualisation (Tableau)
 - Built an interactive dashboard highlighting:
   - Primary metric
-  - Guardrails
+  - Secondary metric
   - Engagement depth
-- Scaled axes transparently to surface small but meaningful differences
 - Included a clear ship / no-ship recommendation
 
 ---

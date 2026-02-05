@@ -80,13 +80,6 @@ The treatment leads to a statistically significant reduction in long-term retent
 🔗 **Interactive Tableau dashboard:**  
 [[Link to Tableau Public dashboard]](https://public.tableau.com/views/ABTestforthegameCookieCats/ABTestImpactofGatePlacementonPlayerRetentionintheGameCookieCats?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
----
-
-## Files
-- `notebooks/` – Python analysis and statistical testing
-- `sql/` – SQL data cleaning logic
-- `data/` – Cleaned dataset used for analysis
-- `figures/` – Dashboard screenshots for quick viewing
 
 ---
 
